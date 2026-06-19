@@ -1,5 +1,16 @@
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondavids&hide=stars,prs,issues)](https://github.com/brandondavids/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandondavids&layout=compact)
+---
+
+Hallo! 👋
+<br>
+I am a technology enthusiast with a background spanning software development, databases, artificial intelligence, and digital media. I enjoy solving problems through technology and building solutions that are both functional and user-focused.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
+
+---
+
+## Skills:
 <br>
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,10 +30,3 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
----
-
-Hallo! 👋
-<br>
-I am a technology enthusiast with a background spanning software development, automation, databases, artificial intelligence, and digital media. I enjoy solving problems through technology and building solutions that are both functional and user-focused.
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
