@@ -8,9 +8,8 @@ I am a technology enthusiast with a background spanning software development, da
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
 
----
+### A list of my tech stack and skills:
 
-## Skills:
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
