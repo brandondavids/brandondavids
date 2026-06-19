@@ -1,5 +1,6 @@
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondavids&hide=stars,prs,issues)](https://github.com/brandondavids/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandondavids&layout=compact)
+
 ---
 
 Hallo! 👋
