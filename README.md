@@ -13,11 +13,11 @@ Constantly trying and learning something new. 🔧
 
 ---
 
-A list of the tech stacks and skills I worked with:
-<br><br>
-
 <div align="center">
-
+  
+  A list of the tech stacks and skills I worked with:
+  <br><br>
+  
   ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
