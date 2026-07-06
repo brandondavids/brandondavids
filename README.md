@@ -13,8 +13,8 @@ Constantly trying and learning something new. 🔧
 
 ---
 
-Currently working on:
-[![Brandon's Repo](https://github-stats-extended.vercel.app/api/pin?username=brandondavids&repo=brandondavids/repo-rag&theme=default)](https://github.com/brandondavids/repo-rag)
+Check out some of the things I'm currently working on:
+- [Repo](https://github.com/brandondavids/repo-rag)
 
 ---
   
