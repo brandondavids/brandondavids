@@ -7,13 +7,13 @@ Hallo! 👋
 <br>
 I am a tech enthusiast with a background that includes software development, database systems, AI, and digital media.
 <br>
-Constantly trying and learning something new. 🔧
+Constantly trying to learn something new. 🔧
 <br>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
 <br><br>
 Check out some of the things I'm currently working on:
-- [brandondavid.site](https://brandondavid.site/)
+- [brandondavid.site](https://github.com/brandondavids/brandondavid-site)
 - [Repo](https://github.com/brandondavids/repo-rag)
 
 ---
