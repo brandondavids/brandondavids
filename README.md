@@ -8,10 +8,9 @@ Hallo! 👋
 I am a tech enthusiast with a background that includes software development, database systems, AI, and digital media.
 <br>
 Constantly trying to learn something new. 🔧
-<br>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
-<br><br>
+
 Check out some of the things I'm currently working on:
 - [brandondavid.site](https://github.com/brandondavids/brandondavid-site)
 - [Repo](https://github.com/brandondavids/repo-rag)
@@ -44,4 +43,3 @@ A list of the tech stacks and skills I worked with:
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/Database-ChromaDB-7B3FF2?style=for-the-badge)
