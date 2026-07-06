@@ -1,5 +1,4 @@
 [![Brandon's GitHub Stats](https://github-stats-extended.vercel.app/api?username=brandondavids&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars,prs)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true)
-[![Brandon's Languages Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brandondavids&layout=compact)](https://github-stats-extended.vercel.app/api/top-langs?username=brandondavids&layout=compact)
 
 ---
 
