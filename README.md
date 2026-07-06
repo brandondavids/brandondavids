@@ -1,5 +1,4 @@
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondavids&hide=stars,prs,issues)](https://github.com/brandondavids/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandondavids&layout=compact)
+[![Brandon's GitHub Stats](https://github-stats-extended.vercel.app/api?username=brandondavids&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true)
 
 ---
 
@@ -38,3 +37,7 @@ A list of the tech stacks and skills I worked with:
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brandondavids&layout=compact)](https://github-stats-extended.vercel.app/api/top-langs?username=brandondavids&layout=compact)
