@@ -11,7 +11,6 @@ Constantly trying to learn something new. 🔧
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bdsinambela) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ddviidd)
 
 Check out some of the things I'm currently working on:
-- [brandondavid.site](https://github.com/brandondavids/brandondavid-site)
 - [Repo](https://github.com/brandondavids/repo-rag)
 
 ---
